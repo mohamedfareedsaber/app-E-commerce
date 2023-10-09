@@ -1,4 +1,10 @@
 # app-E-commerce
+this is 30% for backend
+
+
+
+
+
 add .env fille 
 
 
