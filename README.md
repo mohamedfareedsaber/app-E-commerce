@@ -1,5 +1,5 @@
 # app-E-commerce
-this is 30% for backend
+This is 30% of the backend
 
 
 
